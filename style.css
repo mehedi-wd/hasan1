@@ -1,0 +1,60 @@
+
+.first-one p{
+	text-align:center;
+	background-color:black;
+	 color : #ffffff;
+	text-transform:alphatic;
+	font-size:20px;
+}
+.first-two h2{
+	
+	color:green;
+	
+	
+}
+.first-three h1{
+	text-align:center;
+	color:blue;
+}
+.first-four h3{
+	text-align:right;
+	color:#65F20A
+}
+.first-five span{
+	text-align:center;
+	color:green;
+	font-size:20px;
+}
+.first-six h1{
+	text-align:center;
+	color:#1F0FE6;
+}
+.first-seven iframe{
+	text-align:center;
+}
+.first-seven pre{
+	text-align:center;
+	color:#901574
+	
+}
+.first-eight p{
+	background-image: url("web.jpg");
+	  background-size: cover;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  color:blue;
+	  text-align: justify;
+	  text-transform: alphatic;
+	  font-size:18px;
+	  padding: 80px 20px;
+	  border: 5px ;
+}
+.first-nine p{
+	color: green; 
+	  text-align: center;
+	  text-transform: lowercase;
+	  text-decoration: line-through;
+  }
+	
+	
+	
